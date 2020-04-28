@@ -14,4 +14,4 @@ var sayi5 = sayiüret()
 var sayi6 = sayiüret()
 
 
-console.log("Konsol : " + sayi1 + " " + sayi2 + " " + sayi3 + " " + sayi4 + " " + sayi5 + " " + sayi6)
+console.log("Bilet : " + sayi1 + " " + sayi2 + " " + sayi3 + " " + sayi4 + " " + sayi5 + " " + sayi6)
